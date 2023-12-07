@@ -1,0 +1,6 @@
+projectKey=my-python-project-1
+serverUrl=http://localhost:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://localhost:9000/dashboard?id=my-python-project-1
+ceTaskId=AYxC0y9ys2XZPXiJAcQD
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYxC0y9ys2XZPXiJAcQD
