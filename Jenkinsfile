@@ -18,6 +18,6 @@ pipeline {
                 checkout scm
             }
         }
-        // other stages...
+        // other stages.w..
     }
 }
